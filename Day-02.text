@@ -1,0 +1,65 @@
+07-08-2021[Day-02]:
+===================
+	
+	Good Morning to All...
+	Please try to rename your names in the format i.e., 
+		RollNumber-Name-Collegecode
+
+	If you have any doubts still now you can message in chatbox or else unmute and speak
+
+	Can i start session or else still need to wait for others to join the session.
+
+	-> git init
+	-> folder or file
+	-> git status => To track a fodler or file is in untracked or else in track state
+	-> git add filename.extension
+	-> git rm filename.extension
+	=> To upload n number of untracked files to tracked files
+		-> git add .
+	=> To create a checkpoint[commit]Save
+		-> git commit -m "something message"
+
+		** Entire in your local system [--global]
+		-> git config --global user.name "somethingusername"
+		-> git config --global user.email "somethingmailid"
+
+		** For only single Folder
+		-> git config user.name "username"
+		-> git config user.email "emailid"
+	=> To display how many commits are done for that folder
+		-> git log
+			=> username,email,date,time
+			=> head -> branch
+	=> To know the username or email
+		-> git config user.name
+		-> git config user.email
+	=> To display the commit messages in oneline[To display the commit messages with minimum characters length]
+		-> git log --oneline	
+	=> Create a github account in https://github.com
+	=> To add the remote for local machine
+		-> git remote add remote_name "url of online repository"
+	=> To Check the remote name
+		-> git remote
+	=> To Check whether the link is internlinked with the same url or not?
+		-> git remote -v
+	=> To Upload the offline content => Online [Remote Repository]
+		-> git push remote_name branch_name
+	=> To rename the remotename
+		-> git remote rename past_name updated_name
+	=> To remove remote
+		-> git remote remove remote_name
+	=>To update the remote repository file or folder in local 
+		-> git pull remote_name branch_name
+	
+		
+
+
+
+
+
+
+
+
+
+
+

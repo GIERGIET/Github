@@ -1,0 +1,90 @@
+06-08-2021[Day-01]:
+===================
+	Github Session
+
+	Good Morning to All...
+	Please try to rename your names in the format i.e., 
+		RollNumber-Name-Collegecode
+
+	If You didnt know how to rename in meeting just follow these steps to rename in goto meeting
+	-> Navigate to the meeting Panel
+	-> You can see your names in the peoples navigation
+	-> On Your name beside of right you can observe the dropdown
+	-> Click on drop down and there you can see the option as Edit Your Name and email
+	-> You can rename your names in the format i.e.,rollnumber-name-collegecode
+	-> Don't include anyspaces between the format or else don't use any other formats
+
+
+
+	Git:[commands]
+		fast-version-control
+		cloud
+		client-server
+	Github:[cloud services] Authentication
+	Version Control:
+	VCS: Version Control System:
+		Local -> VCS -> client-server
+	CVCS: Centralised Version Control System
+	DVCS: Distributed Version Control System
+
+	Commands:
+	=========
+	-> To create a single file
+		=> touch filename.extension
+	-> To Create n number of files
+		=> touch filename.extension filename.extension	
+	-> To edit or add content to a file
+		=> nano filename.extension
+			=> nano => editor
+			=> Content typed
+			=> Ctrl + x
+			=> Save mode => Y
+			=> File saving => Filename.extension
+			=> enter
+	-> To Display content in a file
+		=> cat filename.extension
+	-> To display the files or folder
+		=> ls
+	-> To display the file or folder with all details
+		=> ls -l
+	-> To display the file in comma seperated 
+		=> ls -m
+	-> To display the hidden file or folder
+		=> ls -a
+	-> To remove a single file
+		=> rm filename.extension
+	-> To remove n number of files
+		=> rm filename.extension filename.extension
+	-> To create a folder/directory
+		=> mkdir foldername
+	-> To remove a folder/directory
+		=> rmdir foldername
+	-> To enter into a folder
+		=> cd foldername
+		=> cd => change Directory
+	-> To know where we are
+		=> pwd
+		=> pwd => present working directory
+	-> To navigate backward of folder
+		=> cd ..
+
+	Git Commands:
+	=============
+	-> First We need to initialize the git
+		=> git init
+	-> In path we can observe "master/main"
+	-> Created a folder and a file
+	-> file or fodler is with empty data
+	-> git status
+	-> First we need to use add into a git
+
+	 
+
+
+
+
+
+
+
+
+
